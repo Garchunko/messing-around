@@ -1,4 +1,4 @@
-Hello fellow brothers and sisters, I present you my low effort works, that's all.
+Hello fellow brothers and sisters, I present you my low effort work, that's all.
 
 Anyways, this is a ASP project (Website), it's nothing grandeur but if you do not know how it works well follow this instruction:
 - Find and click the Default.aspx file, that's the master page (or the main page of the website).
