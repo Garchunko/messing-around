@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3602CC6-170D-4D13-BE75-FF1B13A071B3}|SimpleGreetingApp\\SimpleGreetingApp.csproj|C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\simplegreetingapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3602CC6-170D-4D13-BE75-FF1B13A071B3}|SimpleGreetingApp\\SimpleGreetingApp.csproj|solutionrelative:simplegreetingapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3602CC6-170D-4D13-BE75-FF1B13A071B3}|SimpleGreetingApp\\SimpleGreetingApp.csproj|c:\\users\\kenzi\\desktop\\html-css-javascript\\self\\ignore\\simplegreetingapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A3602CC6-170D-4D13-BE75-FF1B13A071B3}|SimpleGreetingApp\\SimpleGreetingApp.csproj|solutionrelative:simplegreetingapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3602CC6-170D-4D13-BE75-FF1B13A071B3}|SimpleGreetingApp\\SimpleGreetingApp.csproj|C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\simplegreetingapp\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3602CC6-170D-4D13-BE75-FF1B13A071B3}|SimpleGreetingApp\\SimpleGreetingApp.csproj|solutionrelative:simplegreetingapp\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\SimpleGreetingApp\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "SimpleGreetingApp\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\SimpleGreetingApp\\Content\\bootstrap.css",
+              "RelativeToolTip": "SimpleGreetingApp\\Content\\bootstrap.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-14T00:44:15.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\SimpleGreetingApp\\Default.aspx",
+              "RelativeDocumentMoniker": "SimpleGreetingApp\\Default.aspx",
+              "ToolTip": "C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\SimpleGreetingApp\\Default.aspx",
+              "RelativeToolTip": "SimpleGreetingApp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-14T00:42:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\SimpleGreetingApp\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "SimpleGreetingApp\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\kenzi\\Desktop\\HTML-CSS-JavaScript\\self\\ignore\\SimpleGreetingApp\\Default.aspx.cs",
+              "RelativeToolTip": "SimpleGreetingApp\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T00:24:24.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
